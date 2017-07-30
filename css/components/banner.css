@@ -1,0 +1,33 @@
+/* Your banner CSS file */
+
+.banner {
+  height: 90vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  text-align: center;
+  background-size: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 80px;
+  font-style: bolder;
+}
+
+h2 {
+  opacity: 0.8;
+  font-size: 26px;
+  font-style: bolder;
+}
+
+h3 {
+
+}
+
+a {
+  font-size: 50px;
+  color: white;
+  margin-top: 40px;
+}
